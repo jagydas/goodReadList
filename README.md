@@ -38,6 +38,8 @@ Testing
 
 Deployment
 
+**Web url :**   https://jagydas.github.io/goodReadList/
+
 **Contributers :**
 
 **ahmads62**
